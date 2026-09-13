@@ -33,4 +33,5 @@ I work at the intersection of mathematics and AI, with a focus on mathematical r
 
 ## Contact
 
+Email: [2577135531@qq.com](mailto:2577135531@qq.com)  
 The best way to reach me here is through [GitHub](https://github.com/AlanAkillove).
