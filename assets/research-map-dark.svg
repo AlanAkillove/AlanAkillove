@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="520" viewBox="0 0 820 520" role="img" aria-labelledby="title desc">
+  <title id="title">Research map</title>
+  <desc id="desc">Combinatorics and scientific computing feed computational research, which connects to formal verification, AI for mathematics, and reliable research systems.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#8b949e"/>
+    </marker>
+  </defs>
+  <g fill="none" stroke="#8b949e" stroke-width="2" stroke-linecap="round" marker-end="url(#arrow)">
+    <path d="M 245 92 C 285 92, 285 125, 330 125"/>
+    <path d="M 575 92 C 535 92, 535 125, 490 125"/>
+    <path d="M 410 170 L 410 218"/>
+    <path d="M 410 280 L 410 328"/>
+    <path d="M 410 390 L 410 438"/>
+  </g>
+  <g font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" fill="#f0f6fc" text-anchor="middle">
+    <g>
+      <rect x="35" y="62" width="210" height="60" rx="10" fill="#161b22" stroke="#30363d"/>
+      <text x="140" y="98" font-size="18">Combinatorics</text>
+    </g>
+    <g>
+      <rect x="575" y="62" width="210" height="60" rx="10" fill="#161b22" stroke="#30363d"/>
+      <text x="680" y="98" font-size="18">Scientific Computing</text>
+    </g>
+    <g>
+      <rect x="300" y="110" width="220" height="60" rx="10" fill="#1f365f" stroke="#8b949e"/>
+      <text x="410" y="146" font-size="18" font-weight="600">Computational Research</text>
+    </g>
+    <g>
+      <rect x="300" y="220" width="220" height="60" rx="10" fill="#161b22" stroke="#30363d"/>
+      <text x="410" y="256" font-size="18">Formal Verification</text>
+    </g>
+    <g>
+      <rect x="300" y="330" width="220" height="60" rx="10" fill="#161b22" stroke="#30363d"/>
+      <text x="410" y="366" font-size="18">AI for Mathematics</text>
+    </g>
+    <g>
+      <rect x="250" y="440" width="320" height="60" rx="10" fill="#1f365f" stroke="#8b949e"/>
+      <text x="410" y="476" font-size="18" font-weight="600">Reliable Research Systems</text>
+    </g>
+  </g>
+</svg>
